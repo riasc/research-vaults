@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "0269a01f59f52854",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c22cc85b993bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00c67312f348ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmark/Benchmarking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ebd5dd1d0cdc95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947b5d4703cc8c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "74a4260f0afa53e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8684275f17aeb111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3db3f625cc6670e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "239c158fa76d0a35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac620a73948f1dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b1166ed4017d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b2260109e6dbf21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Benchmark/Benchmarking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e574c8887b308c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benchmark/Benchmarking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42a0ac61c0da9232",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83d9d856cfa2880c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benchmark/Benchmarking.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8684275f17aeb111",
+  "lastOpenFiles": [
+    "Benchmark/Benchmarking.md",
+    "Knowledge.md",
+    "Tools/SNAF.md",
+    "Benchmark/Untitled.canvas",
+    "Pasted image 20240405134918.png",
+    "Benchmark/Wells et al. - 2020 - Key Parameters of Tumor Epitope Immunogenicity Rev.pdf",
+    "Benchmark",
+    "Tools",
+    "Welcome.md"
+  ]
+}
